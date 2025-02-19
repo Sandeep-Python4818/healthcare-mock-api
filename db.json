@@ -1,0 +1,172 @@
+{
+  "providers": [
+    {
+      "id": "PCP00123",
+      "name": "Dr. Jennifer Reynolds",
+      "specialty": "Primary Care",
+      "address": {
+        "street": "8700 Beverly Blvd",
+        "city": "Beverly Hills",
+        "state": "CA",
+        "zipCode": "90210",
+        "phone": "(310) 555-1122"
+      },
+      "insuranceNetworks": [
+        "Blue Cross Blue Shield",
+        "Aetna",
+        "UnitedHealthcare",
+        "Medicare",
+        "Cigna"
+      ],
+      "availability": {
+        "nextAvailable": "2025-02-20T09:00:00",
+        "slots": [
+          {"date": "2025-02-20", "times": ["09:00", "13:30", "15:00"]},
+          {"date": "2025-02-21", "times": ["10:00", "11:30", "14:00"]}
+        ]
+      },
+      "rating": 4.9,
+      "reviewCount": 203
+    },
+    {
+      "id": "PCP00145",
+      "name": "Dr. Michael Chen",
+      "specialty": "Primary Care",
+      "address": {
+        "street": "9250 Santa Monica Blvd",
+        "city": "Beverly Hills",
+        "state": "CA",
+        "zipCode": "90210",
+        "phone": "(310) 555-3344"
+      },
+      "insuranceNetworks": [
+        "Blue Cross Blue Shield",
+        "Kaiser Permanente",
+        "Medicare",
+        "Medicaid",
+        "Oscar Health"
+      ],
+      "availability": {
+        "nextAvailable": "2025-02-19T11:00:00",
+        "slots": [
+          {"date": "2025-02-19", "times": ["11:00", "14:30"]},
+          {"date": "2025-02-22", "times": ["09:30", "10:30", "15:00"]}
+        ]
+      },
+      "rating": 4.8,
+      "reviewCount": 187
+    },
+    {
+      "id": "PCP00189",
+      "name": "Dr. Sarah Williams",
+      "specialty": "Primary Care",
+      "address": {
+        "street": "414 N Camden Dr",
+        "city": "Beverly Hills",
+        "state": "CA",
+        "zipCode": "90210",
+        "phone": "(310) 555-9988"
+      },
+      "insuranceNetworks": [
+        "Blue Cross Blue Shield",
+        "UnitedHealthcare",
+        "Humana",
+        "Anthem",
+        "Medicare"
+      ],
+      "availability": {
+        "nextAvailable": "2025-02-21T13:00:00",
+        "slots": [
+          {"date": "2025-02-21", "times": ["13:00", "16:00"]},
+          {"date": "2025-02-23", "times": ["09:00", "10:00", "11:00"]}
+        ]
+      },
+      "rating": 4.7,
+      "reviewCount": 156
+    },
+    {
+      "id": "PCP00251",
+      "name": "Dr. Robert Garcia",
+      "specialty": "Primary Care",
+      "address": {
+        "street": "2500 Grant Road",
+        "city": "Mountain View",
+        "state": "CA",
+        "zipCode": "94043",
+        "phone": "(650) 555-7788"
+      },
+      "insuranceNetworks": [
+        "Blue Cross Blue Shield",
+        "Aetna",
+        "UnitedHealthcare",
+        "Kaiser Permanente",
+        "Medicare"
+      ],
+      "availability": {
+        "nextAvailable": "2025-02-19T09:30:00",
+        "slots": [
+          {"date": "2025-02-19", "times": ["09:30", "14:00"]},
+          {"date": "2025-02-20", "times": ["10:00", "15:30"]}
+        ]
+      },
+      "rating": 4.9,
+      "reviewCount": 215
+    },
+    {
+      "id": "PCP00276",
+      "name": "Dr. Lisa Patel",
+      "specialty": "Primary Care",
+      "address": {
+        "street": "701 E El Camino Real",
+        "city": "Mountain View",
+        "state": "CA",
+        "zipCode": "94043",
+        "phone": "(650) 555-2233"
+      },
+      "insuranceNetworks": [
+        "Medicare",
+        "Medicaid",
+        "Blue Cross Blue Shield",
+        "Cigna",
+        "Humana"
+      ],
+      "availability": {
+        "nextAvailable": "2025-02-20T11:00:00",
+        "slots": [
+          {"date": "2025-02-20", "times": ["11:00", "13:30"]},
+          {"date": "2025-02-21", "times": ["09:00", "10:30", "15:00"]}
+        ]
+      },
+      "rating": 4.8,
+      "reviewCount": 189
+    },
+    {
+      "id": "PCP00298",
+      "name": "Dr. James Wilson",
+      "specialty": "Primary Care",
+      "address": {
+        "street": "1174 Castro St",
+        "city": "Mountain View",
+        "state": "CA",
+        "zipCode": "94043",
+        "phone": "(650) 555-5566"
+      },
+      "insuranceNetworks": [
+        "UnitedHealthcare",
+        "Anthem",
+        "Blue Shield",
+        "Medicare",
+        "Oscar Health"
+      ],
+      "availability": {
+        "nextAvailable": "2025-02-22T10:00:00",
+        "slots": [
+          {"date": "2025-02-22", "times": ["10:00", "11:30", "14:00"]},
+          {"date": "2025-02-23", "times": ["09:30", "13:00"]}
+        ]
+      },
+      "rating": 4.7,
+      "reviewCount": 172
+    }
+  ]
+}
